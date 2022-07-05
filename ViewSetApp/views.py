@@ -1,4 +1,3 @@
-from functools import partial
 from .models import Student
 from .serializers import StudentSerializers
 from rest_framework.response import Response
